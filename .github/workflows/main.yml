@@ -11,4 +11,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - uses: ./action-a
         with:
-          MY_NAME: "Mona"
+          MY_NAME: "MonaBounga"
