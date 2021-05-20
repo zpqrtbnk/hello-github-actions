@@ -14,4 +14,4 @@ jobs:
           MY_NAME: "MonaBounga"
       - name: Run Powershell
         shell: pwsh
-        run: test.ps1
+        run: ./test.ps1
